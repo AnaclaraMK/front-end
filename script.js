@@ -9,5 +9,5 @@ botao.addEventListener("click", function () {
     console.log("Botão clicado!");
 
     // Mostra um alerta na tela
-    alert("Você clicou no botão!");
+    alert("meeooww");
 });

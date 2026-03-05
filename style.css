@@ -1,0 +1,18 @@
+
+/* Seleciona todo o corpo da página */
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; /* Define a fonte do texto */
+    text-align: center; /* Centraliza o texto */
+    margin-top: 50px; /* Espaço superior */
+}
+
+/* Seleciona o botão pelo id */
+#botao {
+    padding: 10px 20px; /* Espaçamento interno */
+    background-color:rgb(255, 170, 209); /* Cor de fundo */
+    color: white; /* Cor do texto */
+    border: none; /* Remove a borda */
+    cursor: pointer; /* Muda o cursor para mãozinha */
+}
+
+
